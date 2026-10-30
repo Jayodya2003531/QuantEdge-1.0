@@ -1,0 +1,12 @@
+{
+  "confidence": 0.99,
+  "threshold_quantile": 0.9,
+  "threshold_loss": 0.006482246663497839,
+  "shape": 0.08815189250718136,
+  "scale": 0.003556518221583922,
+  "observations": 1497,
+  "exceedances": 150,
+  "tail_fraction": 0.10020040080160321,
+  "evt_var": 0.015570470337887592,
+  "evt_es": 0.020349404792214205
+}

@@ -1,0 +1,24 @@
+{
+  "source": "yahoo",
+  "tickers": [
+    "SPY",
+    "EFA",
+    "EEM",
+    "AGG",
+    "GLD",
+    "XLE",
+    "XLK"
+  ],
+  "training_start": "2007-01-04 00:00:00",
+  "training_end": "2020-11-11 00:00:00",
+  "test_start": "2020-11-12 00:00:00",
+  "test_end": "2026-10-29 00:00:00",
+  "training_observations": 3490,
+  "test_observations": 1497,
+  "risk_free_rate": 0.0,
+  "initial_value": 100000.0,
+  "transaction_cost_bps": 5.0,
+  "price_sha256": "6501ab06c31507bf71ec3f65b95e7dc4cd2eeb21b489ef37ff9e4c32eb417365",
+  "historical_stress_interpretation": "counterfactual exposures",
+  "volatility_stress_multiplier": 2.0
+}
